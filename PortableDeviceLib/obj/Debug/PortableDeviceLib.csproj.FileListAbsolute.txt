@@ -1,0 +1,7 @@
+D:\Programs\digicamcontrol-trunk\PortableDeviceLib\bin\Debug\PortableDeviceLib.dll
+D:\Programs\digicamcontrol-trunk\PortableDeviceLib\bin\Debug\PortableDeviceLib.pdb
+D:\Programs\digicamcontrol-trunk\PortableDeviceLib\bin\Debug\Interop.PortableDeviceApiLib.dll
+D:\Programs\digicamcontrol-trunk\PortableDeviceLib\bin\Debug\Interop.PortableDeviceTypesLib.dll
+D:\Programs\digicamcontrol-trunk\PortableDeviceLib\obj\Debug\PortableDeviceLib.csprojResolveAssemblyReference.cache
+D:\Programs\digicamcontrol-trunk\PortableDeviceLib\obj\Debug\PortableDeviceLib.dll
+D:\Programs\digicamcontrol-trunk\PortableDeviceLib\obj\Debug\PortableDeviceLib.pdb
